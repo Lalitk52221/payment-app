@@ -1,0 +1,11 @@
+button{
+@apply bg-yellow-200 rounded-xl px-4 w-64 h-14 flex justify-center items-center text-blue-600
+}
+li button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
